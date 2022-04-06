@@ -40,7 +40,7 @@
 <Folder><name>ws_batanghari_klhk</name>
   <Placemark>
 	<name>0610008</name>
-	<Style><LineStyle><color>ff000000</color></LineStyle><PolyStyle><fill>0</fill><outline>1<outline></PolyStyle></Style>
+	<Style><LineStyle><color>50000000</color></LineStyle><PolyStyle><fill>0</fill><outline>1<outline></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#ws_batanghari_klhk">
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 		<SimpleData name="CLL">0</SimpleData>
