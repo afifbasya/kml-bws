@@ -40,7 +40,7 @@
 <Folder><name>ws_batanghari_klhk</name>
   <Placemark>
 	<name>0610008</name>
-	<Style><LineStyle><color>000000</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#ws_batanghari_klhk">
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 		<SimpleData name="CLL">0</SimpleData>
@@ -81,7 +81,7 @@
   </Placemark>
   <Placemark>
 	<name>0610014</name>
-	<Style><LineStyle><color>000000</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#ws_batanghari_klhk">
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 		<SimpleData name="CLL">0</SimpleData>
@@ -122,7 +122,7 @@
   </Placemark>
   <Placemark>
 	<name>0610012</name>
-	<Style><LineStyle><color>000000</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#ws_batanghari_klhk">
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 		<SimpleData name="CLL">0</SimpleData>
@@ -163,7 +163,7 @@
   </Placemark>
   <Placemark>
 	<name>0610001</name>
-	<Style><LineStyle><color>000000</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#ws_batanghari_klhk">
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 		<SimpleData name="CLL">0</SimpleData>
@@ -204,7 +204,7 @@
   </Placemark>
   <Placemark>
 	<name>0610009</name>
-	<Style><LineStyle><color>000000</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#ws_batanghari_klhk">
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 		<SimpleData name="CLL">0</SimpleData>
@@ -245,7 +245,7 @@
   </Placemark>
   <Placemark>
 	<name>0610010</name>
-	<Style><LineStyle><color>000000</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#ws_batanghari_klhk">
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 		<SimpleData name="CLL">0</SimpleData>
@@ -286,7 +286,7 @@
   </Placemark>
   <Placemark>
 	<name>0610011</name>
-	<Style><LineStyle><color>000000</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#ws_batanghari_klhk">
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 		<SimpleData name="CLL">0</SimpleData>
@@ -327,7 +327,7 @@
   </Placemark>
   <Placemark>
 	<name>0610013</name>
-	<Style><LineStyle><color>000000</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#ws_batanghari_klhk">
 		<SimpleData name="altitudeMode">clampToGround</SimpleData>
 		<SimpleData name="CLL">0</SimpleData>
